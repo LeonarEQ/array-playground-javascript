@@ -24,4 +24,5 @@ for(let i=0; i<=muchos_peces.length; i++) {
     let siguiente_pez = muchos_peces[i]
     console.log("Pez siguiente: " + siguiente_pez)
 }
-
+/*Por el operador Igual. Al llegar a 4 elementos i++ se ejecuta y pasa a valer 5 
+y como la condición dice que debe ser igual pues seejecuta una vez más  y solo hay 4 elementos.*/

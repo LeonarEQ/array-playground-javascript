@@ -17,4 +17,6 @@
   let pezPosicion2 = muchos_peces.indexOf("estrella")
   console.log("Estrella está en la posición: " + pezPosicion2)
 
+  /*Porque no existe estrella en el arreglo entonces lo reconoce como si estuviese en -1, existe es Estrella con mayúscula*/
+
   
